@@ -5,10 +5,6 @@
 
 #define MAX_HEIGHT 41
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 struct box {
     int length;
     int width;

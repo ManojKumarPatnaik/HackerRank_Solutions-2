@@ -8,10 +8,6 @@
 #define INT_MIN (-2147483647 - 1)
 #define INT_MAX 2147483647
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 int sum(int count, ...) {
     va_list elements;
     int sum = 0;

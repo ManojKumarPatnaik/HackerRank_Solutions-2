@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 struct triangle {
     int a;
     int b;

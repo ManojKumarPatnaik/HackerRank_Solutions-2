@@ -6,10 +6,6 @@
 #define MAX_CHARACTERS 1005
 #define MAX_PARAGRAPHS 5
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 struct word {
     char *data;
 };

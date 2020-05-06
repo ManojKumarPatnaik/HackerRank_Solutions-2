@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 void swap(char **s, int i, int j) {
     char *temp = s[i];
     s[i] = s[j];

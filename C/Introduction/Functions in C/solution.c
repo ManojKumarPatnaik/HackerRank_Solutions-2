@@ -1,9 +1,5 @@
 #include <stdio.h>
 
-/**
- * @author Oleg Cherednik
- * @since 20.07.2018
- */
 int main() {
     int a, b, c, d;
     scanf("%d %d %d %d", &a, &b, &c, &d);

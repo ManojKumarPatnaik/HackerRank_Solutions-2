@@ -5,10 +5,7 @@
 
 char *readline();
 
-/**
- * @author Oleg Cherednik
- * @since 20.07.2018
- */
+
 int main() {
     char *n_endptr;
     char *n_str = readline();

@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 int marks_summation(int *marks, int number_of_students, char gender) {
     int sum = 0;
 

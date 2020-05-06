@@ -6,10 +6,6 @@
 #define MAX_CHARACTERS 1005
 #define MAX_PARAGRAPHS 5
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 char *kth_word_in_mth_sentence_of_nth_paragraph(char ****document, int k, int m, int n) {
     return document[n - 1][m - 1][k - 1];
 }

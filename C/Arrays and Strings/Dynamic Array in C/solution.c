@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <memory.h>
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 int *total_number_of_books;
 
 int **total_number_of_pages;

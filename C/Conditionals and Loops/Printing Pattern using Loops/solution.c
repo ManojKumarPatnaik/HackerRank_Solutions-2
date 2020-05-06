@@ -1,10 +1,4 @@
 #include <stdio.h>
-
-/**
- * @author Oleg Cherednik
- * @since 20.07.2018
- */
-
 #define max(x, y) ((x) >= (y)) ? (x) : (y)
 
 int main() {

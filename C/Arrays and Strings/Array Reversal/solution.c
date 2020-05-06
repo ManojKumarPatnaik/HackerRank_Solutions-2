@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/**
- * @author Oleg Cherednik
- * @since 22.07.2018
- */
 int main() {
     int num, *arr, i;
     scanf("%d", &num);

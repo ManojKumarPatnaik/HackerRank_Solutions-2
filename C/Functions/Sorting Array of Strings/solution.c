@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 int lexicographic_sort(const char *a, const char *b) {
     return strcmp(a, b);
 }

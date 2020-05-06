@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/**
- * @author Oleg Cherednik
- * @since 20.07.2018
- */
 int main() {
     int a, b;
     int *pa = &a, *pb = &b;

@@ -4,10 +4,6 @@
 
 #define MAX_STR_LEN 10
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 typedef struct Package {
     char id[MAX_STR_LEN];
     unsigned weight;

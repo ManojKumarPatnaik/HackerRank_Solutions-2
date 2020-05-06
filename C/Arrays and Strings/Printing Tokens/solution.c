@@ -3,10 +3,6 @@
 #include <math.h>
 #include <stdlib.h>
 
-/**
- * @author Oleg Cherednik
- * @since 23.07.2018
- */
 int main() {
     char *s;
     s = malloc(1024 * sizeof(char));
